@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f0d6c8c-b24f-4a4b-96c6-0f5491542398" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractice01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SingleInheritance/SingleInheritance_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SingleInheritance/SingleInheritance_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiInheritance/MultiInheritance_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiInheritance/MultiInheritance_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiInheritance/MultiInheritance_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiInheritance/TestMultiInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiInheritance/X_Hierarchical_Inheritance.java" afterDir="false" />
-    </list>
+    <list default="true" id="9f0d6c8c-b24f-4a4b-96c6-0f5491542398" name="Changes" comment="Polymorphism" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +23,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2K0Y5ScedifIa5bcaFVMXllV4Wx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,20 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.X_Hierarchical_Inheritance">
-    <configuration name="SingleInheritance_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SingleInheritance.SingleInheritance_A" />
+}]]></component>
+  <component name="RunManager" selected="Application.XEMethodOverloading">
+    <configuration name="D_Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q.method_overridng.D_Circle" />
       <module name="JavaPractice01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SingleInheritance.*" />
+          <option name="PATTERN" value="Q.method_overridng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleInheritance_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SingleInheritance.SingleInheritance_B" />
+    <configuration name="D_Overlodding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q.method_overridng.D_Overlodding" />
       <module name="JavaPractice01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SingleInheritance.*" />
+          <option name="PATTERN" value="Q.method_overridng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMultiInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiInheritance.TestMultiInheritance" />
+    <configuration name="XEMethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.XEMethodOverloading" />
       <module name="JavaPractice01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multiInheritance.*" />
+          <option name="PATTERN" value="polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.X_Hierarchical_Inheritance" />
-        <item itemvalue="Application.TestMultiInheritance" />
-        <item itemvalue="Application.SingleInheritance_B" />
-        <item itemvalue="Application.SingleInheritance_A" />
+        <item itemvalue="Application.XEMethodOverloading" />
+        <item itemvalue="Application.D_Overlodding" />
+        <item itemvalue="Application.D_Circle" />
         <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.X_Hierarchical_Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -131,9 +122,27 @@
       <option name="presentableId" value="Default" />
       <updated>1673112787279</updated>
     </task>
+    <task id="LOCAL-00001" summary="Inheritance">
+      <created>1673900863296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673900863296</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Polymorphism">
+      <created>1673978059340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673978059340</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Inheritance" />
+    <MESSAGE value="Polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
   </component>
 </project>
